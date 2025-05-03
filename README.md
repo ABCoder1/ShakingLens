@@ -4,6 +4,8 @@
 
 **ShakingLens** is a geospatial analytics project that analyzes and visualizes projected wildfire risks across regions in Los Angeles. The goal is to generate actionable insights to help **policymakers**, **researchers**, and the **general public** better understand evolving regional fire risks and prepare for climate-driven wildfire hazards in the coming decades.
 
+You can access the deployed app (Render) here : https://shakinglens.onrender.com
+
 ## 🚀 Features
 
 - 🌐 Interactive geospatial visualizations of wildfire projections  
